@@ -1,4 +1,5 @@
 import unittest
+import csv
 from cityreader import City, cityreader
 
 def check_city(inp, exp):
